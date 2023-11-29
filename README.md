@@ -1,2 +1,2 @@
 # pomodoroTimer
-Created with CodeSandbox
+This is a pomodoro timer app 
